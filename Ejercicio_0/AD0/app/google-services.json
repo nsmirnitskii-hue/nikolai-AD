@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1033120156941",
+    "project_id": "niolai-ad0",
+    "storage_bucket": "niolai-ad0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1033120156941:android:a9f89b497470c8ea57b444",
+        "android_client_info": {
+          "package_name": "com.example.ad0"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1gGoHNw8mniPipZZmH4U-Ypamaa95n98"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1033120156941:android:c5aae825d915086957b444",
+        "android_client_info": {
+          "package_name": "com.example.ad_auth"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1gGoHNw8mniPipZZmH4U-Ypamaa95n98"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
